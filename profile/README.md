@@ -93,8 +93,10 @@ artificial intelligence and software engineering at the Universidade Federal do 
 <td valign="top">
 <b>BEATRIZ MACHADO</b> works on cybersecurity research at AI Horizon Labs, Universidade Federal do Pampa (UNIPAMPA), on vulnerability analysis, data anonymization, and the use of language models to automate security work. She was a research fellow with the Brazilian National Research and Education Network (RNP), and wrote MulitaMiner, which turns the heterogeneous reports of security scanners into structured records with the help of language models. That work received second place for best paper at WRSeg 2025.
 <br><br>
-<a href="https://github.com/inari18">GitHub</a>
-<!-- FALTA: ORCID, Lattes, Scholar e LinkedIn da Beatriz -->
+<a href="https://orcid.org/0009-0002-2750-0323">ORCID</a> ·
+<a href="https://github.com/inari18">GitHub</a> ·
+<a href="https://www.linkedin.com/in/beatriz18/">LinkedIn</a>
+<!-- FALTA: Lattes e Scholar da Beatriz -->
 </td>
 </tr>
 <tr>
