@@ -1,0 +1,78 @@
+PROMPT DA LOGO DA CHIMANGOSCAN
+Anexar junto no Gemini: ~/Downloads/bagualops-logo.jpeg (referencia de familia)
+
+------------------------------- COLAR DAQUI -------------------------------
+
+Você vai criar a logo de uma organização de pesquisa, em formato paisagem, com no mínimo
+2400 pixels de largura.
+
+**Sobre a imagem anexada.** Ela é a logo do BagualOps, de outra organização do mesmo grupo de
+pesquisa: um cavalo recortado em negativo de dentro de um B sólido, seguido do nome. Ela é a
+referência de linguagem visual, não de desenho, não de animal e não de cor. Copie dela: a
+silhueta chapada de uma cor só, sem contorno, sem sombra e sem detalhe interno; o recorte em
+negativo dentro de uma forma sólida; o fundo branco quente e liso; e o nome ao lado, na mesma
+linha de base. Não reaproveite o cavalo, não use a letra B e não use o azul dela.
+
+**Tema.** A organização se chama ChimangoScan e faz medição de segurança em larga escala do
+ecossistema de imagens do Docker Hub: varre milhões de repositórios, ordena as imagens por
+exposição e passa vários scanners de segurança sobre elas. O chimango é um gavião do Pampa, o
+pássaro que sobrevoa o campo devagar e não deixa passar nada, que é a descrição do trabalho.
+
+**Símbolo pedido.** Um círculo sólido, e dentro dele, recortada em negativo, a cabeça de um
+gavião de perfil, olhando para a direita, com o bico curvo de ave de rapina bem visível e a
+nuca levemente eriçada. O círculo funciona como uma lente, então a cabeça deve ocupar bem o
+interior dele, sem sobrar borda larga demais. É a mesma lógica de recorte da imagem anexada,
+onde o cavalo é vazado dentro do B: aqui a ave é vazada dentro do círculo. Nenhuma letra entra
+no símbolo.
+
+**Composição pedida.** Lockup horizontal, lido da esquerda para a direita:
+
+- O círculo à esquerda, ocupando a altura total da marca.
+- O nome logo à direita, na mesma linha de base, com um espaço entre os dois igual à largura de
+  uma letra.
+- Margem folgada em volta de tudo, sem nada encostando na borda.
+- Fundo liso e uniforme, sem textura, sem faixa, sem moldura.
+
+**Texto a renderizar**, exatamente com esta grafia e esta caixa: ChimangoScan
+
+É uma palavra só, sem espaço, com C maiúsculo, S maiúsculo e todas as outras letras
+minúsculas. Tipografia pesada, sem serifa, geométrica, de terminações retas, no mesmo peso
+visual do círculo. Sem itálico, sem contorno, sem espaçamento extra entre as letras.
+
+**Paleta obrigatória**, duas cores e nenhuma terceira:
+
+| Cor | Onde usar |
+| --- | --- |
+| #12595C | verde-petróleo: o círculo sólido e o nome |
+| #F8F7F4 | branco quente: o fundo, e portanto a ave vazada dentro do círculo |
+
+O branco quente é o mesmo da imagem anexada, de propósito, porque é ele que mantém as duas
+marcas na mesma família. O #12595C substitui o azul: use exatamente esse valor, não um verde
+vizinho, não azul, não turquesa claro.
+
+**Estilo.** Vetorial chapado, duas cores, formas sólidas. Nada de degradê, sombra, brilho,
+bisel, textura, penas desenhadas uma a uma, fotorrealismo nem 3D.
+
+**Legibilidade, que é o critério mais importante.** A marca vai virar avatar e vai aparecer em
+40 pixels. Portanto:
+
+- o círculo com a ave precisa continuar reconhecível recortado sozinho, sem o nome, num
+  quadrado;
+- o bico curvo é o que faz ler como ave de rapina: ele precisa ser grosso e evidente;
+- nenhum detalhe fino, nada que suma na redução;
+- a logo precisa funcionar impressa em uma cor só.
+
+**O que não fazer.** Sem nenhuma letra dentro do símbolo. Sem lupa, alvo, mira, escudo,
+cadeado, engrenagem, nuvem, contêiner, baleia, terminal nem código. Sem cavalo e sem a letra B.
+Sem asas abertas, sem ave inteira, sem poleiro: só a cabeça. Sem texto além da palavra pedida,
+sem slogan, sem sigla. Sem marca d'água, moldura, cantos arredondados na imagem final ou borda
+branca de adesivo.
+
+------------------------------- ATE AQUI -------------------------------
+
+SE VOLTAR ERRADO:
+- bico fraco:  Keep everything identical, only make the hooked beak thicker and more pronounced.
+- caixa errada: Keep everything identical, only fix the wordmark to read exactly "ChimangoScan",
+                capital C and capital S, the rest lowercase.
+- ave grande demais ou pequena demais dentro do circulo:
+                Same logo, but make the bird head fill more of the circle / leave more margin.

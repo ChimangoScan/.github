@@ -82,7 +82,7 @@ a result instead of trusting it.
 <!-- FALTA: handle do GitHub da Beatriz, para a foto -->
 </td>
 <td valign="top">
-<b>BEATRIZ ROLAND MACHADO</b> works on language models applied to security data at AI Horizon Labs, Universidade Federal do Pampa (UNIPAMPA). She is the author of MulitaMiner, a tool that turns the heterogeneous PDF reports of security scanners into structured records with the help of language models, reaching an F1 of 0.94 over 6,700 vulnerabilities. That work received second place for best paper at WRSeg 2025 and is published in the ERRC proceedings.
+<b>BEATRIZ MACHADO</b> works on language models applied to security data at AI Horizon Labs, Universidade Federal do Pampa (UNIPAMPA). She is the author of MulitaMiner, a tool that turns the heterogeneous PDF reports of security scanners into structured records with the help of language models, reaching an F1 of 0.94 over 6,700 vulnerabilities. That work received second place for best paper at WRSeg 2025 and is published in the ERRC proceedings.
 <br><br>
 <!-- FALTA: ORCID, Lattes, Scholar, GitHub, LinkedIn -->
 </td>
