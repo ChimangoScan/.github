@@ -57,8 +57,6 @@ measuring Docker Hub.
 | | |
 |---|---|
 | [`chimangoscan-page`](https://github.com/ChimangoScan/chimangoscan-page) | Project page for the highest-exposure study |
-| [`scans-dashboard`](https://github.com/ChimangoScan/scans-dashboard) | Dashboard of the scan results |
-| [`scanner-report-static`](https://github.com/ChimangoScan/scanner-report-static) | A static snapshot of that dashboard |
 
 Every artifact repository carries the pipeline configuration, the corpus definition and the
 scripts that regenerate each number, figure and table of its paper, so a reader can recompute
