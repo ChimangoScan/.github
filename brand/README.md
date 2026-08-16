@@ -5,6 +5,11 @@ cut out of it in negative. The circle reads as a lens, which is what the organiz
 Docker Hub. It follows the same construction as the mark of
 [BagualOps](https://github.com/BagualOps): one shape, one cutout, two colors.
 
+<p align="center">
+  <img src="chimangoscan-logo-alpha.png" alt="ChimangoScan lockup" width="440"><br><br>
+  <img src="chimangoscan-avatar.png" alt="ChimangoScan avatar" width="120">
+</p>
+
 | File | Size | Use |
 |---|---|---|
 | `chimangoscan-logo-alpha.png` | 2400 x 768 | Horizontal lockup on a transparent background. This is the one to use in READMEs and on the web. |
