@@ -1,0 +1,40 @@
+Você vai criar uma imagem de preview para um repositório no GitHub, em 1280x640 pixels,
+proporção 2:1.
+
+**Sobre a imagem anexada.** Ela é a logo da ChimangoScan: um círculo sólido com a cabeça de um
+gavião recortada em negativo. Ela é a referência de linguagem visual e de cor. Copie dela: a
+silhueta chapada, sem contorno, sem sombra e sem detalhe interno; o recorte em negativo; e as
+duas cores. Não repita a logo inteira nem escreva o nome.
+
+**Tema.** A organização mede segurança em larga escala no ecossistema de imagens do Docker Hub:
+varre milhões de repositórios, ordena as imagens por exposição e passa vários scanners sobre
+elas. A imagem precisa sugerir escala e varredura, sem virar infográfico.
+
+**Composição pedida.** Formato paisagem largo, dividido em dois pesos:
+
+- Do lado direito, uma malha regular de retângulos iguais, chapados, em fileiras e colunas,
+  saindo da borda direita e rareando conforme se aproxima do centro. É o campo de imagens
+  sendo medido.
+- Alguns poucos desses retângulos, espalhados, aparecem em tom mais claro que os demais, como
+  se tivessem sido marcados na varredura. No máximo um em cada dez.
+- Do lado esquerdo, um grande vazio deliberado, liso, sem nenhum elemento, ocupando cerca de
+  40% da largura. É onde vai entrar o texto depois.
+- Silhueta de um gavião planando, pequena, chapada, sobrevoando a malha na parte superior
+  direita. Uma só, discreta, sem detalhe de pena.
+
+**Paleta obrigatória**, três valores e nenhum outro:
+
+| Cor | Onde usar |
+| --- | --- |
+| #12595C | verde-petróleo: a malha de retângulos e a silhueta do gavião |
+| #F8F7F4 | branco quente: o fundo inteiro |
+| #7FB3B2 | verde claro: apenas os poucos retângulos marcados |
+
+**Estilo.** Vetorial chapado, formas sólidas, geométrico. Nada de degradê, sombra, brilho,
+bisel, textura, perspectiva, profundidade, fotorrealismo nem 3D. A malha é plana, vista de
+frente, sem fuga.
+
+**O que não fazer.** Sem nenhum texto, letra, número ou logotipo. Sem baleia, contêiner de
+navio, caixa de papelão, nuvem, cadeado, escudo, lupa, alvo, gráfico, terminal ou código. Sem
+ave inteira em close, sem asas abertas em primeiro plano. Sem moldura, sem borda, sem cantos
+arredondados. Sem marca d'água.

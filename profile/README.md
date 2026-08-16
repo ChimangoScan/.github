@@ -35,6 +35,11 @@ vulnerabilities the three vulnerability scanners find, only 2.7% are reported by
 66.8% by a single one. Any single-scanner census is measuring its scanner as much as it is
 measuring Docker Hub.
 
+Two findings from the companion studies are worth carrying here. Posture is not driven by how
+popular or how large an image is, but by the distribution it comes from and by its age. And
+about one in twelve images ever published can no longer be pulled by a current Docker, because
+its manifest schema is too old.
+
 ## Repositories
 
 **The measurement**
@@ -49,8 +54,8 @@ measuring Docker Hub.
 | | |
 |---|---|
 | [`chimangoscan`](https://github.com/ChimangoScan/chimangoscan) | *Vulnerabilities, Secrets and Misconfiguration in the Highest-Exposure Docker Hub Images*, the 12.7 million repository study ([arXiv:2608.02669](https://arxiv.org/abs/2608.02669)) |
-| [`os-census`](https://github.com/ChimangoScan/os-census) | *A Multi-Scanner Census of the Linux Operating-System Base Images of Docker Hub*, SBSeg 2026 |
-| [`chimango-baseline`](https://github.com/ChimangoScan/chimango-baseline) | *A Uniform Random-Sample Security Measurement of Docker Hub Images*, SBSeg 2026 |
+| [`os-census`](https://github.com/ChimangoScan/os-census) | *A Multi-Scanner Census of the Linux Operating-System Base Images of Docker Hub*, SBSeg 2026. Every container starts from an OS base image: 5,606 of them, across 20 repositories, scanned with 14 tools |
+| [`chimango-baseline`](https://github.com/ChimangoScan/chimango-baseline) | *A Uniform Random-Sample Security Measurement of Docker Hub Images*, SBSeg 2026. What the typical image looks like, from 2,879 drawn uniformly at random rather than by popularity |
 
 **Results on the web**
 
