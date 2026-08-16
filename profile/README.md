@@ -107,7 +107,7 @@ artificial intelligence and software engineering at the Universidade Federal do 
 <a href="https://github.com/CristhianKapelinski"><img src="https://github.com/CristhianKapelinski.png?size=200" width="120" alt="Cristhian Kapelinski"></a>
 </td>
 <td valign="top">
-<b>CRISTHIAN KAPELINSKI</b> works on security, privacy, and machine learning at AI Horizon Labs, Universidade Federal do Pampa (UNIPAMPA). He built the measurement pipeline behind this organization, from the crawl of the Docker Hub namespace to the layer graph and the multi-scanner runs. His interests include privacy and memorization in language models, their use in security operations and the attacks against them, and large-scale measurement of software ecosystems.
+<b>CRISTHIAN KAPELINSKI</b> works on security, privacy, and machine learning at AI Horizon Labs, Universidade Federal do Pampa (UNIPAMPA). He has held research fellowships with the Brazilian National Research and Education Network (RNP), where he led the AnonShield and AnonLFI pseudonymization frameworks, with the Instituto Tecnológico de Aeronáutica (ITA), and with the LARC laboratory of the University of São Paulo (USP). His interests include privacy and memorization in language models, their use in security operations and the attacks against them, and large-scale measurement of software ecosystems.
 <br><br>
 <a href="https://orcid.org/0009-0005-5750-022X">ORCID</a> ·
 <a href="http://lattes.cnpq.br/0100277568164430">Lattes</a> ·
