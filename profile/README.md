@@ -94,7 +94,7 @@ a result instead of trusting it.
 <a href="https://github.com/diegokreutz"><img src="https://github.com/diegokreutz.png?size=200" width="120" alt="Diego Kreutz"></a>
 </td>
 <td valign="top">
-<b>DIEGO LUIS KREUTZ</b> received the B.S. degree in computer science and the M.Sc. degrees in production engineering and in informatics from the Universidade Federal de Santa Maria (UFSM), and the Ph.D. degree in computing. He has been a professor and researcher with the Universidade Federal do Pampa (UNIPAMPA) since 2008, where he coordinates the group, and has also carried out research at the University of Lisbon, the University of Luxembourg and Monash University. His interests include cybersecurity and adversarial AI, language models, AutoML, distributed systems and networks, and software artifact engineering.
+<b>DIEGO KREUTZ</b> received the B.S. degree in computer science and the M.Sc. degrees in production engineering and in informatics from the Universidade Federal de Santa Maria (UFSM), and the Ph.D. degree in computing. He has been a professor and researcher with the Universidade Federal do Pampa (UNIPAMPA) since 2008, where he coordinates the group, and has also carried out research at the University of Lisbon, the University of Luxembourg and Monash University. His interests include cybersecurity and adversarial AI, language models, AutoML, distributed systems and networks, and software artifact engineering.
 <br><br>
 <a href="https://orcid.org/0000-0003-0830-0238">ORCID</a> ·
 <a href="http://lattes.cnpq.br/2781747995973774">Lattes</a> ·
