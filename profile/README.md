@@ -51,7 +51,6 @@ measuring Docker Hub.
 | [`chimangoscan`](https://github.com/ChimangoScan/chimangoscan) | *Vulnerabilities, Secrets and Misconfiguration in the Highest-Exposure Docker Hub Images*, the 12.7 million repository study ([arXiv:2608.02669](https://arxiv.org/abs/2608.02669)) |
 | [`os-census`](https://github.com/ChimangoScan/os-census) | *A Multi-Scanner Census of the Linux Operating-System Base Images of Docker Hub*, SBSeg 2026 |
 | [`chimango-baseline`](https://github.com/ChimangoScan/chimango-baseline) | *A Uniform Random-Sample Security Measurement of Docker Hub Images*, SBSeg 2026 |
-| [`multiscan`](https://github.com/ChimangoScan/multiscan) | *What Open-Source Security Scanners Find*, a measurement study of 31 tools over 130 vulnerable containers |
 
 **Results on the web**
 
