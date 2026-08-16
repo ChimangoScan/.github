@@ -16,6 +16,7 @@ Docker Hub. It follows the same construction as the mark of
 | `chimangoscan-logo.png` | 2400 x 768 | The same lockup on the off-white ground, for print and for anywhere transparency is not wanted. |
 | `chimangoscan-avatar.png` | 1000 x 1000 | The circle alone, centered on a square. Use it as the organization avatar, and anywhere the name would be too small to read. |
 | `chimangoscan-logo-source.jpeg` | 3584 x 1184 | The source image everything else is derived from. |
+| `chimangoscan-social-preview.png` | 1280 x 640 | The repository social preview, the image GitHub shows when a link is shared. The Docker logo in it is the official asset from docker.com, unmodified, used to name what is being measured. |
 | `prompt-logo-chimangoscan.txt` | | The prompt that produced the source image. |
 
 Colors, and no third one:
