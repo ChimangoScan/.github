@@ -1,0 +1,48 @@
+Você vai criar a imagem de preview de um repositório no GitHub, em 1280x640 pixels, proporção
+2:1. É uma ilustração, não um diagrama.
+
+**Tema.** O repositório mede a segurança de uma amostra do Docker Hub sorteada ao acaso, em vez
+de olhar só as imagens populares. A ideia da imagem é a diferença entre olhar o monte grande
+que chama atenção e sortear pelo campo inteiro.
+
+**Cena pedida.** Campo aberto ao entardecer, visto de cima e de longe, como quem olha de uma
+coxilha:
+
+- Cobrindo quase toda a imagem, um campo imenso de caixotes de carga pequenos e iguais,
+  espalhados em fileiras regulares até o horizonte, todos do mesmo tamanho.
+- No canto esquerdo, um único monte alto de caixotes empilhados, bem maior e mais chamativo que
+  o resto. É o que qualquer um olharia primeiro, e está sozinho.
+- Espalhados pelo campo inteiro, **uns quinze caixotes marcados em âmbar**, bem distribuídos e
+  sem formar padrão nem aglomerado: alguns perto, alguns no meio, alguns quase no horizonte.
+  Nenhum deles no monte alto. É o sorteio.
+- Um chimango, gavião de porte médio, planando alto e pequeno na parte superior da imagem,
+  sobrevoando o campo inteiro em vez do monte.
+- Horizonte baixo, céu de fim de tarde no terço superior, com nuvens compridas e chapadas.
+
+**Estilo.** Ilustração vetorial de traço grosso, cheia de cor, no espírito de pôster de turismo
+antigo: formas sólidas, contorno escuro uniforme, sombreamento em blocos chapados e não em
+degradê suave. Nada de fotorrealismo, 3D, brilho metálico nem lens flare.
+
+**Paleta obrigatória.** Use estes valores e não invente tons vizinhos:
+
+| Cor | Onde usar |
+| --- | --- |
+| `#12595C` | verde-petróleo da marca: os caixotes do campo e o monte alto |
+| `#2E8A85` | petróleo claro: os caixotes mais distantes, dando profundidade |
+| `#E0A32E` | âmbar: apenas os caixotes sorteados |
+| `#E8D9B5` | creme: o capim seco do campo |
+| `#8A5A2B` | marrom: a terra e as sombras longas |
+| `#2E2118` | marrom escuro: todos os contornos e a silhueta do chimango |
+| `#F8F7F4` | branco quente: o céu e as nuvens |
+
+**Composição e legibilidade.** A imagem vai aparecer pequena, em cartão de link:
+
+- a dispersão dos caixotes marcados precisa ser perceptível de longe, é o que a imagem diz;
+- o monte alto precisa ser claramente maior que o resto, e claramente sem marcação;
+- deixe o canto superior direito calmo, sem detalhe, porque entra texto ali depois;
+- nada importante encostando nas bordas.
+
+**O que não fazer.** Sem nenhum texto, letra, número ou logotipo. Sem baleia, navio, guindaste,
+empilhadeira, pessoas, mãos, dado de jogo, roleta, cadeado, escudo, lupa, alvo, gráfico,
+engrenagem, nuvem, terminal ou código. Sem ave em close nem asas abertas em primeiro plano: ela
+está alta e pequena. Sem moldura, sem borda, sem cantos arredondados, sem marca d'água.

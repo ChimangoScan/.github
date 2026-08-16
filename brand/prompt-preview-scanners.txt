@@ -1,0 +1,46 @@
+Você vai criar a imagem de preview de um repositório no GitHub, em 1280x640 pixels, proporção
+2:1. É uma ilustração, não um diagrama.
+
+**Tema.** O repositório é a ferramenta que passa uma bateria de scanners de segurança sobre a
+mesma imagem de contêiner e junta tudo num esquema só. O achado que dá sentido a ele é que as
+ferramentas discordam: cada uma enxerga uma coisa diferente no mesmo objeto.
+
+**Cena pedida.** Uma oficina de campo à noite, vista de perto e de frente:
+
+- No centro, sobre um cavalete de madeira, um único caixote de carga fechado, grande, de frente
+  para quem olha. É o objeto sendo medido, e é o centro da imagem.
+- Em volta dele, em semicírculo, seis lampiões antigos pendurados em hastes, cada um numa
+  altura e num ângulo diferente, todos apontados para o caixote. São as ferramentas.
+- Cada lampião projeta no chão uma sombra do caixote, e **as seis sombras têm formatos
+  diferentes entre si**: uma mais longa, outra mais curta, uma torta, uma dupla. É o ponto da
+  imagem: mesmo objeto, leituras diferentes.
+- Chão de terra batida, com capim seco nas beiradas. Fundo escuro, sem parede: a oficina é ao
+  ar livre.
+
+**Estilo.** Ilustração vetorial de traço grosso, cheia de cor, no espírito de pôster antigo:
+formas sólidas, contorno escuro uniforme, sombreamento em blocos chapados e não em degradê
+suave. Nada de fotorrealismo, 3D, brilho metálico realista nem lens flare.
+
+**Paleta obrigatória.** Use estes valores e não invente tons vizinhos:
+
+| Cor | Onde usar |
+| --- | --- |
+| `#12595C` | verde-petróleo da marca: o caixote no centro |
+| `#2E8A85` | petróleo claro: as faces do caixote que a luz alcança |
+| `#E0A32E` | âmbar: a chama dentro dos lampiões |
+| `#E8D9B5` | creme: o chão de terra e o capim seco |
+| `#8A5A2B` | marrom: a madeira do cavalete e as hastes |
+| `#2E2118` | marrom escuro: todos os contornos, o fundo e as sombras |
+| `#F8F7F4` | branco quente: só o miolo mais claro de cada chama |
+
+**Composição e legibilidade.** A imagem vai aparecer pequena, em cartão de link:
+
+- o caixote no centro e o semicírculo de lampiões precisam ser legíveis de longe;
+- as sombras diferentes precisam ser visíveis sem esforço, é o que a imagem diz;
+- deixe o canto superior direito calmo, sem detalhe, porque entra texto ali depois;
+- nada importante encostando nas bordas.
+
+**O que não fazer.** Sem nenhum texto, letra, número ou logotipo. Sem baleia, navio, guindaste,
+empilhadeira, pessoas, mãos, lupa, alvo, cadeado, escudo, engrenagem, nuvem, terminal ou
+código. Sem holofote moderno nem lanterna elétrica: os lampiões são antigos, de chama. Sem
+moldura, sem borda, sem cantos arredondados, sem marca d'água.

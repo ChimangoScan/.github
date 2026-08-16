@@ -1,0 +1,46 @@
+Você vai criar a imagem de preview de um repositório no GitHub, em 1280x640 pixels, proporção
+2:1. É uma ilustração, não um diagrama.
+
+**Tema.** O repositório é o censo das imagens base de sistema operacional do Docker Hub. Todo
+contêiner começa a partir de uma imagem base, então poucas bases sustentam muita coisa: o que
+está errado embaixo se repete em tudo que foi construído em cima.
+
+**Cena pedida.** Um pátio ao ar livre, ao meio-dia, visto de frente e um pouco de baixo:
+
+- Ocupando a maior parte da imagem, quatro ou cinco torres de caixotes de carga empilhados,
+  altas e estreitas, lado a lado, como silos.
+- Cada torre é formada por muitos caixotes iguais e claros empilhados, **e todas as torres
+  apoiam no mesmo caixote de baixo**: um único caixote muito maior, largo, escuro e desgastado,
+  que atravessa a base da imagem inteira e sustenta todas elas. Ele é visivelmente mais antigo
+  que o resto.
+- Uma ou duas das torres estão levemente tortas, como se o peso não distribuísse igual.
+- Chão de terra batida com capim seco nas beiradas, horizonte baixo, céu claro no terço
+  superior.
+
+**Estilo.** Ilustração vetorial de traço grosso, cheia de cor, no espírito de pôster antigo:
+formas sólidas, contorno escuro uniforme, sombreamento em blocos chapados e não em degradê
+suave. Nada de fotorrealismo, 3D, brilho metálico nem lens flare.
+
+**Paleta obrigatória.** Use estes valores e não invente tons vizinhos:
+
+| Cor | Onde usar |
+| --- | --- |
+| `#12595C` | verde-petróleo da marca: o caixote grande da base |
+| `#2E8A85` | petróleo claro: os caixotes das torres |
+| `#E8D9B5` | creme: o chão de terra e o capim seco |
+| `#E0A32E` | âmbar: poucas marcas espalhadas no caixote da base, no máximo três |
+| `#8A5A2B` | marrom: a madeira gasta e as amarras |
+| `#2E2118` | marrom escuro: todos os contornos e as sombras |
+| `#F8F7F4` | branco quente: o céu |
+
+**Composição e legibilidade.** A imagem vai aparecer pequena, em cartão de link:
+
+- tem que ficar óbvio, de longe, que todas as torres apoiam no mesmo caixote de baixo;
+- o caixote da base precisa parecer mais velho e mais pesado que o resto;
+- deixe o canto superior direito calmo, sem detalhe, porque entra texto ali depois;
+- nada importante encostando nas bordas.
+
+**O que não fazer.** Sem nenhum texto, letra, número ou logotipo. Sem baleia, navio, guindaste,
+empilhadeira, pessoas, mãos, pinguim, cadeado, escudo, lupa, engrenagem, nuvem, terminal ou
+código. Sem torre desabando nem caixote quebrado: elas estão de pé. Sem moldura, sem borda, sem
+cantos arredondados, sem marca d'água.
