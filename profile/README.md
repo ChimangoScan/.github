@@ -1,4 +1,6 @@
-# ChimangoScan
+<p align="center">
+  <img src="../brand/chimangoscan-logo-alpha.png" alt="ChimangoScan" width="520">
+</p>
 
 **Large-scale security measurement of the Docker Hub image ecosystem.**
 
