@@ -54,7 +54,7 @@ The tool. It runs a battery of container-security scanners over a list of images
 </tr>
 <tr>
 <td width="300" valign="middle">
-<a href="https://github.com/ChimangoScan/chimangoscan"><img src="assets/preview-os-census.png" alt="chimangoscan" width="280"></a>
+<a href="https://github.com/ChimangoScan/chimangoscan"><img src="assets/preview-chimangoscan.png" alt="chimangoscan" width="280"></a>
 </td>
 <td valign="middle">
 <a href="https://github.com/ChimangoScan/chimangoscan"><b>chimangoscan</b></a><br>
