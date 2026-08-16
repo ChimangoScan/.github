@@ -1,8 +1,3 @@
-PROMPT DA LOGO DA CHIMANGOSCAN
-Anexar junto no Gemini: ~/Downloads/bagualops-logo.jpeg (referencia de familia)
-
-------------------------------- COLAR DAQUI -------------------------------
-
 Você vai criar a logo de uma organização de pesquisa, em formato paisagem, com no mínimo
 2400 pixels de largura.
 
@@ -67,12 +62,3 @@ cadeado, engrenagem, nuvem, contêiner, baleia, terminal nem código. Sem cavalo
 Sem asas abertas, sem ave inteira, sem poleiro: só a cabeça. Sem texto além da palavra pedida,
 sem slogan, sem sigla. Sem marca d'água, moldura, cantos arredondados na imagem final ou borda
 branca de adesivo.
-
-------------------------------- ATE AQUI -------------------------------
-
-SE VOLTAR ERRADO:
-- bico fraco:  Keep everything identical, only make the hooked beak thicker and more pronounced.
-- caixa errada: Keep everything identical, only fix the wordmark to read exactly "ChimangoScan",
-                capital C and capital S, the rest lowercase.
-- ave grande demais ou pequena demais dentro do circulo:
-                Same logo, but make the bird head fill more of the circle / leave more margin.
