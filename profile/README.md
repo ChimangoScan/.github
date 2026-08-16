@@ -2,7 +2,10 @@
   <img src="assets/chimangoscan-logo-alpha.png" alt="ChimangoScan" width="520">
 </p>
 
-**Large-scale security measurement of the Docker Hub image ecosystem.**
+<p align="center">
+  <b>Large-scale security measurement of the Docker Hub image ecosystem.</b><br>
+  Built at <a href="https://ai-horizon-labs.github.io/">AI Horizon Labs</a>.
+</p>
 
 Docker Hub is where most containerized software is distributed from, and almost nobody
 measures it at scale. The studies that exist tend to sample the popular images and to trust a
@@ -64,6 +67,10 @@ a result instead of trusting it.
 
 ## People
 
+We work at [AI Horizon Labs](https://ai-horizon-labs.github.io/), a research group on
+artificial intelligence and software engineering at the Universidade Federal do Pampa
+(UNIPAMPA), on the Alegrete campus in Rio Grande do Sul, Brazil.
+
 <table>
 <tr>
 <td width="140" valign="top" align="center">
@@ -81,12 +88,13 @@ a result instead of trusting it.
 </tr>
 <tr>
 <td width="140" valign="top" align="center">
-<!-- FALTA: handle do GitHub da Beatriz, para a foto -->
+<a href="https://github.com/inari18"><img src="https://github.com/inari18.png?size=200" width="120" alt="Beatriz Machado"></a>
 </td>
 <td valign="top">
 <b>BEATRIZ MACHADO</b> works on cybersecurity research at AI Horizon Labs, Universidade Federal do Pampa (UNIPAMPA), on vulnerability analysis, data anonymization, and the use of language models to automate security work. She was a research fellow with the Brazilian National Research and Education Network (RNP), and wrote MulitaMiner, which turns the heterogeneous reports of security scanners into structured records with the help of language models. That work received second place for best paper at WRSeg 2025.
 <br><br>
-<!-- FALTA: ORCID, Lattes, Scholar, GitHub, LinkedIn -->
+<a href="https://github.com/inari18">GitHub</a>
+<!-- FALTA: ORCID, Lattes, Scholar e LinkedIn da Beatriz -->
 </td>
 </tr>
 <tr>
