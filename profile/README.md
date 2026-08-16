@@ -42,12 +42,44 @@ its manifest schema is too old.
 
 ## Repositories
 
-| | |
-|---|---|
-| [`scanners`](https://github.com/ChimangoScan/scanners) | The tool: runs a battery of container-security scanners over a list of images, on one machine or many, and consolidates every finding into a single schema |
-| [`chimangoscan`](https://github.com/ChimangoScan/chimangoscan) | *Vulnerabilities, Secrets and Misconfiguration in the Highest-Exposure Docker Hub Images*, the 12.7 million repository study ([arXiv:2608.02669](https://arxiv.org/abs/2608.02669)) |
-| [`os-census`](https://github.com/ChimangoScan/os-census) | *A Multi-Scanner Census of the Linux Operating-System Base Images of Docker Hub*, SBSeg 2026. Every container starts from an OS base image: 5,606 of them, across 20 repositories, scanned with 14 tools |
-| [`chimango-baseline`](https://github.com/ChimangoScan/chimango-baseline) | *A Uniform Random-Sample Security Measurement of Docker Hub Images*, SBSeg 2026. What the typical image looks like, from 2,879 drawn uniformly at random rather than by popularity |
+<table>
+<tr>
+<td width="300" valign="middle">
+<a href="https://github.com/ChimangoScan/scanners"><img src="assets/preview-scanners.png" alt="scanners" width="280"></a>
+</td>
+<td valign="middle">
+<a href="https://github.com/ChimangoScan/scanners"><b>scanners</b></a><br>
+The tool. It runs a battery of container-security scanners over a list of images, on one machine or many, and consolidates every finding into a single schema. The picture is the finding that justifies it: one crate, six lamps, six different shadows.
+</td>
+</tr>
+<tr>
+<td width="300" valign="middle">
+<a href="https://github.com/ChimangoScan/chimangoscan"><img src="assets/preview-os-census.png" alt="chimangoscan" width="280"></a>
+</td>
+<td valign="middle">
+<a href="https://github.com/ChimangoScan/chimangoscan"><b>chimangoscan</b></a><br>
+<i>Vulnerabilities, Secrets and Misconfiguration in the Highest-Exposure Docker Hub Images</i>, the 12.7 million repository study (<a href="https://arxiv.org/abs/2608.02669">arXiv:2608.02669</a>).
+</td>
+</tr>
+<tr>
+<td width="300" valign="middle">
+<a href="https://github.com/ChimangoScan/os-census"><img src="assets/preview-os-census.png" alt="os-census" width="280"></a>
+</td>
+<td valign="middle">
+<a href="https://github.com/ChimangoScan/os-census"><b>os-census</b></a><br>
+<i>A Multi-Scanner Census of the Linux Operating-System Base Images of Docker Hub</i>, SBSeg 2026. Every container starts from an OS base image: 5,606 of them, across 20 repositories, scanned with 14 tools. Whatever is wrong at the bottom repeats in everything built on top.
+</td>
+</tr>
+<tr>
+<td width="300" valign="middle">
+<a href="https://github.com/ChimangoScan/chimango-baseline"><img src="assets/preview-chimango-baseline.png" alt="chimango-baseline" width="280"></a>
+</td>
+<td valign="middle">
+<a href="https://github.com/ChimangoScan/chimango-baseline"><b>chimango-baseline</b></a><br>
+<i>A Uniform Random-Sample Security Measurement of Docker Hub Images</i>, SBSeg 2026. What the typical image looks like, from 2,879 drawn uniformly at random across the whole registry rather than from the tall pile everyone measures.
+</td>
+</tr>
+</table>
 
 Each artifact repository carries the pipeline configuration, the corpus definition and the
 scripts that regenerate every number, figure and table of its paper, so a reader can recompute
