@@ -42,30 +42,26 @@ its manifest schema is too old.
 
 ## Repositories
 
-**The measurement**
-
 | | |
 |---|---|
-| [`DITector`](https://github.com/ChimangoScan/DITector) | The framework: distributed collection over the Docker ecosystem, extending the Dr. Docker (WWW '25) methodology |
 | [`scanners`](https://github.com/ChimangoScan/scanners) | The tool: runs a battery of container-security scanners over a list of images, on one machine or many, and consolidates every finding into a single schema |
-
-**Papers and their artifacts**
-
-| | |
-|---|---|
 | [`chimangoscan`](https://github.com/ChimangoScan/chimangoscan) | *Vulnerabilities, Secrets and Misconfiguration in the Highest-Exposure Docker Hub Images*, the 12.7 million repository study ([arXiv:2608.02669](https://arxiv.org/abs/2608.02669)) |
 | [`os-census`](https://github.com/ChimangoScan/os-census) | *A Multi-Scanner Census of the Linux Operating-System Base Images of Docker Hub*, SBSeg 2026. Every container starts from an OS base image: 5,606 of them, across 20 repositories, scanned with 14 tools |
 | [`chimango-baseline`](https://github.com/ChimangoScan/chimango-baseline) | *A Uniform Random-Sample Security Measurement of Docker Hub Images*, SBSeg 2026. What the typical image looks like, from 2,879 drawn uniformly at random rather than by popularity |
 
-**Results on the web**
-
-| | |
-|---|---|
-| [`chimangoscan-page`](https://github.com/ChimangoScan/chimangoscan-page) | Project page for the highest-exposure study |
-
-Every artifact repository carries the pipeline configuration, the corpus definition and the
-scripts that regenerate each number, figure and table of its paper, so a reader can recompute
+Each artifact repository carries the pipeline configuration, the corpus definition and the
+scripts that regenerate every number, figure and table of its paper, so a reader can recompute
 a result instead of trusting it.
+
+## The paper page
+
+The highest-exposure study has a page of its own, with the mechanism, the numbers and the PDF.
+
+<p align="center">
+  <a href="https://chimangoscan.github.io/chimangoscan-page/">
+    <img src="assets/chimangoscan-page.png" alt="Project page of the highest-exposure Docker Hub study" width="720">
+  </a>
+</p>
 
 ## People
 
