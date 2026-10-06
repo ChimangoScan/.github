@@ -67,7 +67,7 @@ The tool. It runs a battery of container-security scanners over a list of images
 </td>
 <td valign="middle">
 <a href="https://github.com/ChimangoScan/os-census"><b>os-census</b></a><br>
-<i>A Multi-Scanner Census of the Linux Operating-System Base Images of Docker Hub</i>, SBSeg 2026. Every container starts from an OS base image: 5,606 of them, across 20 repositories, scanned with 14 tools. Whatever is wrong at the bottom repeats in everything built on top.
+<i>A Multi-Scanner Census of the Linux Operating-System Base Images of Docker Hub</i>, SBSeg 2026 (<a href="https://sol.sbc.org.br/index.php/sbseg/article/view/44372">SBC OpenLib</a>). Every container starts from an OS base image: 5,606 of them, across 20 repositories, scanned with 14 tools. Whatever is wrong at the bottom repeats in everything built on top.
 </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ The tool. It runs a battery of container-security scanners over a list of images
 </td>
 <td valign="middle">
 <a href="https://github.com/ChimangoScan/chimango-baseline"><b>chimango-baseline</b></a><br>
-<i>A Uniform Random-Sample Security Measurement of Docker Hub Images</i>, SBSeg 2026. What the typical image looks like, from 2,879 drawn uniformly at random across the whole registry rather than from the tall pile everyone measures.
+<i>A Uniform Random-Sample Security Measurement of Docker Hub Images</i>, SBSeg 2026 (<a href="https://sol.sbc.org.br/index.php/sbseg/article/view/44371">SBC OpenLib</a>). What the typical image looks like, from 2,879 drawn uniformly at random across the whole registry rather than from the tall pile everyone measures.
 </td>
 </tr>
 </table>
